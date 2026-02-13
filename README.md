@@ -1,2 +1,2 @@
 # delta-demo
-This is a demo for git & github class
+Hey , This is a Auto Text Effect Animation 
